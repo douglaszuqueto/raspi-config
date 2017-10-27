@@ -1,12 +1,10 @@
-# Projeto RaspiConfig
+## Projeto RaspiConfig
 
-## IMAGEM PROJETO
-
-## Link da Organização
+### Link da Organização
 
 * [Organização RaspiConfig](https://github.com/raspi-config)
 
-## Link dos repositórios
+### Link dos repositórios
 
 * [RaspiConfig - repositório central](https://github.com/raspi-config/raspi-config)
 * [API do projeto](https://github.com/raspi-config/node-api)
