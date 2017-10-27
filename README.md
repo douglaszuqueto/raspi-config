@@ -1,0 +1,2 @@
+# raspi-config
+Projeto RaspiConfig
